@@ -14,4 +14,3 @@ Features
     Data Integration: Utilizes real-world data from middle school studies.
     Predictive Modeling: Implements algorithms to forecast instances of wheelspinning.
     Actionable Insights: Offers a framework for detecting when a student may be struggling, allowing for proactive support.
-    Extensibility: Designed to integrate seamlessly with the core SimStudent project.
